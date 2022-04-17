@@ -48,13 +48,6 @@ include("header.php");
             </a>
           </li>
 
-          <!-- <li class="nav-item" style="margin-right: 40px;">
-            <a class="nav-link js-scroll-trigger" href="services.html" style="color: white;font-family: 'IBM Plex Sans', sans-serif;">
-              <h6>ABOUT US</h6>
-            </a>
-            
-          </li> -->
-
           <li class="nav-item">
             <a class="nav-link js-scroll-trigger" href="contact.html" style="color: white;font-family: 'IBM Plex Sans', sans-serif;">
               <h6>Query</h6>
@@ -70,7 +63,7 @@ include("header.php");
   <div class="container-fluid" style="margin-top:60px;margin-bottom:60px;color:#34495E;">
     <div class="row">
 
-      <div class="col-md-6" style="margin-top: auto;left: auto; right:auto">
+      <div class="col-md-7" style="margin-top: 0px;left: 250px; right:0px">
         <div class="card" style="font-family: 'IBM Plex Sans', sans-serif;">
           <div class="card-body">
             <center>

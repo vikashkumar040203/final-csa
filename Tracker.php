@@ -106,7 +106,7 @@ if (isset($_POST['submit'])) {
                         <li class="nav-item dropdown">
                             <a class="nav-link link text-black dropdown-toggle display-4" href="#" data-toggle="dropdown-submenu" aria-expanded="false">Book</a>
                             <div class="dropdown-menu">
-                                <a class="text-black dropdown-item display-4" href="labs.html">Lab Appointment</a>
+                                <!-- <a class="text-black dropdown-item display-4" href="labs.html">Lab Appointment</a> -->
                                 <a class="text-black dropdown-item display-4" href="labs.html">Doctor Consultancy</a>
                             </div>
                         </li>
@@ -116,8 +116,8 @@ if (isset($_POST['submit'])) {
                     </ul>
 
                     <div class="navbar-buttons mbr-section-btn" style="color:blue">
-                        <a class="btn btn-danger display-4" href="Tracker.php">
-                            Period track
+                        <a class="btn btn-danger display-4" href="labs.html">
+                            signup/ Signin
                         </a>
                     </div>
                 </div>
@@ -132,7 +132,7 @@ if (isset($_POST['submit'])) {
                 <div id="track-input">
                     <h2> Enter your last period details:</h2>
                     <div id="input-box-wrapper" style="">
-                        <div class="tracker-input-box">
+                        <!-- <div class="tracker-input-box">
                             <label id="lab">Month</label>
                             <select id="month" name="month">
                                 <option value="Jan">January</option>
@@ -148,7 +148,7 @@ if (isset($_POST['submit'])) {
                                 <option value="Nov">November</option>
                                 <option value="Dec">December</option>
                             </select>
-                        </div>
+                        </div> -->
                         <div class="tracker-input-box">
                             <label id="lab">Start Date</label>
                             <input type="date" id="month" name="start">
